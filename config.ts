@@ -12,7 +12,7 @@ export const window = {
 
 export const api = {
     ws: 'ws://185.180.230.185:1370/ws',
-    web: 'http://185.180.230.185:1370',
+    web: 'https://185.180.230.185:1370',
     // extraToken: token,
 };
 
